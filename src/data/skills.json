@@ -22,7 +22,7 @@
         "id": "4",
         "src": "/skills/orm.png",
         "title": "ORM",
-        "description": "Managing relational databases, including MySQL and TSQL, as well as in handling NoSQL databases like MongoDB. ORM frameworks, specifically Hibernate, Java Persistence API (JPA), and Enterprise JavaBeans (EJB)."
+        "description": "Managing relational databases, including MySQL, PostgreSQL and TSQL, as well as in handling NoSQL databases like MongoDB. ORM frameworks, specifically Hibernate, Java Persistence API (JPA), and Enterprise JavaBeans (EJB)."
       },
       {
         "id": "5",
