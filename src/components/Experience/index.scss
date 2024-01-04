@@ -1,0 +1,84 @@
+// ExperienceTimeline.scss
+.experience-timeline {
+    display: flex;
+    flex-wrap: wrap;
+    float: right;
+    width: 60%; 
+    margin-bottom: 50px;
+    max-height: 580px; 
+    overflow-y: auto;
+    &::-webkit-scrollbar {
+        width: 0.5em;
+    }
+     }
+  
+  .vertical-timeline-element {
+    margin-bottom: 30px;
+
+    .vertical-timeline-element-date {
+        font-size: 18px; /* Adjust the font size as needed */
+        font-weight: bold;
+        color: #fff;
+    }
+}
+
+// index.scss
+.fa-icon {
+  font-size: 20px; /* Adjust the font size as needed */
+  margin-right: 10px; /* Add margin to separate the icon from the icon content */
+}
+
+.timeline-content {
+  display: flex;
+  align-items: center; /* Align items vertically in the center */
+}
+
+.left-column {
+  display: flex;
+  align-items: center; /* Align items vertically in the center */
+}
+
+.right-column {
+  text-align: left; /* Align text to the left */
+}
+
+
+// index.scss
+.company-image {
+  width: 20px; /* Adjust the width as needed */
+  height: 20px; /* Adjust the height as needed */
+  margin-right: 10px; /* Add margin to separate the image from the title */
+}
+
+.timeline-content {
+  display: flex;
+  align-items: center; /* Align items vertically in the center */
+}
+
+.left-column {
+  flex-shrink: 0; /* Ensure the left column does not shrink */
+}
+
+.right-column {
+  text-align: left; /* Align text to the left */
+}
+
+  
+  .vertical-timeline-element-title {
+    font-size: 14px;
+    font-weight: bold;
+  }
+  
+  .vertical-timeline-element-subtitle {
+    font-size: 12px;
+    color: #777;
+  }
+  
+  .vertical-timeline-element-content {
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  

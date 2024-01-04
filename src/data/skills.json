@@ -1,0 +1,58 @@
+{
+    "skills": [
+      {
+        "id": "1",
+        "src": "/skills/java.png",
+        "title": "Java",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      },
+      {
+        "id": "2",
+        "src": "/skills/spring.png",
+        "title": "Spring",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      },
+      {
+        "id": "3",
+        "src": "/skills/orm.png",
+        "title": "ORM",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      },
+      {
+        "id": "4",
+        "src": "/skills/php.png",
+        "title": "php",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      },
+      {
+        "id": "5",
+        "src": "../assets/images/webservices.png",
+        "title": "Web Srevices",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      },
+      {
+        "id": "6",
+        "src": "/skills/frontend.png",
+        "title": "Front End",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      },
+      {
+        "id": "7",
+        "src": "/skills/unittesting.png",
+        "title": "php",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      },
+      {
+        "id": "8",
+        "src": "/skills/dev-ops.png",
+        "title": "Dev Ops",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      },
+      {
+        "id": "8",
+        "src": "/skills/source-control.png",
+        "title": "Source Control",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      }
+    ]
+  }
