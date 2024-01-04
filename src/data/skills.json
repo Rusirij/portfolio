@@ -4,55 +4,49 @@
         "id": "1",
         "src": "/skills/java.png",
         "title": "Java",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+        "description": "I am fluent in Java and have hands on expereince on its core concepts, design patterns, architecture, and advanced frameworks."
       },
       {
         "id": "2",
         "src": "/skills/spring.png",
         "title": "Spring",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
-      },
+        "description": "I excel in data management using Spring and have extensive experience with Spring Boot for streamlined application development. My proficiency extends to thorough testing within the Spring framework, ensuring the creation of robust applications."
+      },      
       {
         "id": "3",
-        "src": "/skills/orm.png",
-        "title": "ORM",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+        "src": "/skills/python.png",
+        "title": "Python",
+        "description": "I've extensively utilized Python in diverse projects, maximizing its versatility for enhanced project efficiency. I seamlessly integrated Python into my workflow, utilizing key libraries like Numpy, Tensorflow, and Turtle Graphics to achieve optimal results."
       },
       {
         "id": "4",
-        "src": "/skills/php.png",
-        "title": "php",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+        "src": "/skills/orm.png",
+        "title": "ORM",
+        "description": "Managing relational databases, including MySQL and TSQL, as well as in handling NoSQL databases like MongoDB. ORM frameworks, specifically Hibernate, Java Persistence API (JPA), and Enterprise JavaBeans (EJB)."
       },
       {
         "id": "5",
-        "src": "../assets/images/webservices.png",
+        "src": "/skills/webservices.png",
         "title": "Web Srevices",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+        "description": "I possess adeptness in working with web services, encompassing both REST and SOAP protocols. This proficiency extends to hands-on experience with industry-standard examples of web services, facilitating seamless communication and integration between diverse applications."
       },
       {
         "id": "6",
         "src": "/skills/frontend.png",
         "title": "Front End",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+        "description": "Proficient in JavaScript, ReactJS, and ExpressJS, I create dynamic user interfaces. Using HTML, SCSS, and Bootstrap, I design structured and visually appealing layouts. Hands-on expertise in EmberJS enriches my ability to build scalable web applications."
       },
       {
         "id": "7",
-        "src": "/skills/unittesting.png",
-        "title": "php",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
-      },
-      {
-        "id": "8",
         "src": "/skills/dev-ops.png",
         "title": "Dev Ops",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+        "description": "Experienced in DevOps tools, I proficiently utilize GIT and JIRA for planning, Maven and Gradle for builds, JUnit for testing, Jenkins for integration, and Docker with Ansible for deployment and orchestration."
       },
       {
         "id": "8",
         "src": "/skills/source-control.png",
         "title": "Source Control",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+        "description": "Proficient in source control, I am adept at utilizing both Git and Perforce for effective version management."
       }
     ]
   }

@@ -24,9 +24,6 @@ body {
   animation: fadeIn 1.5s ease-in-out forwards; // Updated duration to 1.5s
   transition: transform 0.3s ease-in-out; // Added transition for the zoom effect
 
-  &:hover {
-    transform: scale(1.05); // Zoom in by 5% on hover
-  }
 
   .skills--section--card {
     display: flex;

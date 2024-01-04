@@ -44,8 +44,9 @@ const About = () => {
           of industry advancements
           </p>
           <p>
-          As a final-year student, actively seeking exciting job opportunities in the tech industry, 
-          I am genuinely excited about the possibilities and challenges that this dynamic field presents. 
+          Since I am in my last semster of completing a post graduate at Seneca in the field of Business Information Technology,
+          I am actively seeking exciting job opportunities in the tech industry, 
+          and excited about the possibilities and challenges that this dynamic field presents. 
           I thrive on finding solutions and making a lasting impact in the evolving tech landscape.
           </p>
         </div>

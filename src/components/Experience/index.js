@@ -53,7 +53,7 @@ const Experience = () => {
                 </div>
               </div>
 
-              <h4 className="vertical-timeline-element-subtitle">IESL College Of Engineering</h4>
+              <h4 className="vertical-timeline-element-subtitle">IESL College Of Engineering, Sri Lanka</h4>
             </VerticalTimelineElement>
 
             <VerticalTimelineElement
