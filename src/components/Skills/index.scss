@@ -9,7 +9,12 @@ body {
   flex-wrap: wrap;
   float: right;
   width: 78%;
-  height: 115%;
+  max-height: 580px; 
+  overflow-y: auto;
+  &::-webkit-scrollbar {
+      width: 0.5em;
+  }
+  // height: 115%;
 }
 
 .skills--section--container {

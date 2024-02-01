@@ -10,7 +10,7 @@
         "id": "2",
         "src": "/skills/spring.png",
         "title": "Spring",
-        "description": "I excel in data management using Spring and have extensive experience with Spring Boot for streamlined application development. My proficiency extends to thorough testing within the Spring framework, ensuring the creation of robust applications."
+        "description": "I excel in data management using Spring and have extensive experience with Spring Boot, Spring Batch and Spring data JPA for streamlined application development. My proficiency extends to thorough testing within the Spring framework, ensuring the creation of robust applications."
       },      
       {
         "id": "3",
@@ -20,8 +20,8 @@
       },
       {
         "id": "4",
-        "src": "/skills/orm.png",
-        "title": "ORM",
+        "src": "/skills/database.png",
+        "title": "Database",
         "description": "Managing relational databases, including MySQL, PostgreSQL and TSQL, as well as in handling NoSQL databases like MongoDB. ORM frameworks, specifically Hibernate, Java Persistence API (JPA), and Enterprise JavaBeans (EJB)."
       },
       {
@@ -47,6 +47,12 @@
         "src": "/skills/source-control.png",
         "title": "Source Control",
         "description": "Proficient in source control, I am adept at utilizing both Git and Perforce for effective version management."
+      },
+      {
+        "id": "9",
+        "src": "/skills/testing.png",
+        "title": "Unit Testing",
+        "description": "All projects I worked on had been properly tested and executed. These testings include tools such as JUnit, Selenium and Mockito for unit testing and Spring test to cover Functional and Acceptance Tests."
       }
     ]
   }

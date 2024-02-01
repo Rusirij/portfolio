@@ -71,10 +71,12 @@ const Experience = () => {
                 {/* Right column for title */}
                 <div className="right-column">
                   <h3 className="vertical-timeline-element-title">Associate Software Engineer</h3>
+                 
                 </div>
               </div>
 
             <h4 className="vertical-timeline-element-subtitle">Virtusa Pvt Ltd., Sri Lanka</h4>
+            <h2 className="vertical-timeline-element-title">Maintenance of system using J2EE, Core Java and EJB with the assistance of tech leads.</h2>
             </VerticalTimelineElement>
 
             <VerticalTimelineElement
@@ -96,6 +98,7 @@ const Experience = () => {
               </div>
 
               <h4 className="vertical-timeline-element-subtitle">Virtusa Pvt Ltd., Sri Lanka</h4>
+              <h2 className="vertical-timeline-element-title">Development & Maintenance of system using J2EE, Spring MVC. Implemented and Maintained web appications SOAP, REST webservices. Functional and Acceptance testing and defect reports using organizational tools.</h2>
             </VerticalTimelineElement>
 
             <VerticalTimelineElement
@@ -117,6 +120,7 @@ const Experience = () => {
               </div>
 
               <h4 className="vertical-timeline-element-subtitle">Virtusa Pvt Ltd., Sri Lanka</h4>
+              <h2 className="vertical-timeline-element-title">Analyse and resolve complex technical problems. Played a lead role in attending to Sprint Planning with the client and assign story points on each tasks. Manage stakeholder expectations in order to solve technical problems and provide technical solutions.</h2>
             </VerticalTimelineElement>
 
             <VerticalTimelineElement
@@ -138,6 +142,8 @@ const Experience = () => {
               </div>
 
               <h4 className="vertical-timeline-element-subtitle">Mitra Innovations, Sri Lanka</h4>
+              <h2 className="vertical-timeline-element-title">
+Expertly tackled complex technical issues within an Agile context. Led Sprint Planning sessions with the client, assigning appropriate story points to tasks. Effectively managed stakeholder expectations, ensuring alignment with Agile methodologies while providing innovative technical solutions.</h2>
             </VerticalTimelineElement>
 
             <VerticalTimelineElement
